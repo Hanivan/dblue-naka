@@ -1,0 +1,974 @@
+Dec 24 10:27 : exception: Failed to open '/home/haniv/.mpd/mpdstate': No such file or directory
+Dec 24 10:27 : config: option 'device' on line 14 was not recognized
+Dec 24 10:33 : config: option 'device' on line 14 was not recognized
+Dec 24 10:47 : config: option 'device' on line 14 was not recognized
+Dec 24 11:10 : config: option 'device' on line 14 was not recognized
+Dec 24 13:39 : update: added Record/test.wav
+Dec 24 13:39 : update: added /BlackClover-Black_Catcher.mp3
+Dec 24 13:39 : update: added /BlackClover-Grandeur-OP13.mp3
+Dec 24 13:39 : update: added /BlackClover-JUSTadICE-OP7.mp3
+Dec 24 13:39 : update: added /Boruto-Baku-OP8.mp3
+Dec 24 13:39 : update: added /Boruto-Central-End14.mp3
+Dec 24 13:39 : update: added /Goosebumps_AlipBaTa.mp3
+Dec 24 13:39 : update: added /Hindia-Evakuasi.mp3
+Dec 24 13:39 : update: added /KeON-Fuwa_Fuwa_Time.mp3
+Dec 24 13:39 : update: added /KeON-GO_GO_MANIAC.mp3
+Dec 24 13:39 : update: added /KeON-Gohan_Wa_Okazu.mp3
+Dec 24 13:39 : update: added /KeON-Ichiban_Ippai.mp3
+Dec 24 13:39 : update: added /KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3
+Dec 24 13:39 : update: added /KeON-U&I.mp3
+Dec 24 13:39 : update: added /KeON-Utauyo_Miracle.mp3
+Dec 24 13:39 : update: added /KeON-Watashi_no_Koi_wa_Hotchkiss.mp3
+Dec 24 13:39 : update: added /KnY_Gurenge_OP1.mp3
+Dec 24 13:39 : update: added /KnY_Kamado-Tanjiro-no-Uta_EP19.mp3
+Dec 24 13:39 : update: added /KyoukaiNoKanata_Daisy_ED1.mp3
+Dec 24 13:39 : update: added /LLI-Snow_Halation.mp4
+Dec 24 13:39 : update: added /Naruto-BlueBird-OP3.mp3
+Dec 24 13:39 : update: added /Naruto-Lovers-OP9.mp3
+Dec 24 13:39 : update: added /Naruto-Sana-ED33.mp3
+Dec 24 13:39 : update: added /Naruto-Tabidachi_No_Uta-ED39.mp3
+Dec 24 13:39 : update: added /Naruto-TsukiNoOokisa-OP14.mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 24 13:39 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 24 13:39 : update: added /Nrgm_HeyKids_OP2.mp3
+Dec 24 13:39 : update: added /Numb_LinkinPark_Fingerstyle_JamieDupuis.mp3
+Dec 24 13:39 : update: added /ReZero_S2_Ending_Memento_nonoc.mp3
+Dec 24 13:39 : update: added /ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 24 13:39 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 24 13:39 : update: added /ShigatsuWaKimiNoUso_NanairoSymphony_OP2.mp3
+Dec 24 13:39 : update: added /ShigatsuWaKimiNoUso_Orange_ED2.mp4
+Dec 24 13:39 : update: added /Sia_Snowman.mp3
+Dec 24 13:39 : update: added /SnK-YuugureNoTori-EDS2.mp3
+Dec 24 13:39 : update: added /UzakiChanWaAsobitai_NadameSukashi_OP1.mp3
+Dec 24 13:39 : exception: Failed to open /home/haniv/Music/playlists: No such file or directory
+Dec 24 13:39 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 24 13:39 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 24 13:39 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 24 13:39 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 24 13:44 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Dec 24 13:48 : player: played "KeON-GO_GO_MANIAC.mp3"
+Dec 24 13:51 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Dec 24 14:34 : player: played "LLI-Snow_Halation.mp4"
+Dec 24 14:34 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 24 14:34 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 24 14:38 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 24 14:38 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 24 14:38 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 24 14:38 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 24 14:42 : player: played "Nrgm_HeyKids_OP2.mp3"
+Dec 24 14:50 : player: played "BlackClover-Black_Catcher.mp3"
+Dec 24 14:56 : player: played "BlackClover-Grandeur-OP13.mp3"
+Dec 24 15:00 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Dec 24 15:01 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Dec 24 15:09 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Dec 24 15:13 : player: played "KeON-U&I.mp3"
+Dec 24 15:17 : player: played "KeON-Utauyo_Miracle.mp3"
+Dec 24 15:21 : player: played "KeON-Watashi_no_Koi_wa_Hotchkiss.mp3"
+Dec 24 22:15 : config: option 'device' on line 14 was not recognized
+Dec 25 12:36 : config: option 'device' on line 14 was not recognized
+Dec 25 14:04 : config: option 'device' on line 14 was not recognized
+Dec 26 11:23 : config: option 'device' on line 14 was not recognized
+Dec 26 11:24 : config: option 'device' on line 14 was not recognized
+Dec 27 00:50 : player: played "KeON-Watashi_no_Koi_wa_Hotchkiss.mp3"
+Dec 27 10:19 : config: option 'device' on line 14 was not recognized
+Dec 27 12:17 : player: played "KeON-Watashi_no_Koi_wa_Hotchkiss.mp3"
+Dec 27 12:21 : player: played "LLI-Snow_Halation.mp4"
+Dec 27 12:25 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 27 12:25 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 27 12:25 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+Dec 27 12:29 : player: played "ShigatsuWaKimiNoUso_NanairoSymphony_OP2.mp3"
+Dec 27 12:34 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 27 12:34 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 27 12:34 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Dec 27 12:39 : player: played "Nrgm_HeyKids_OP2.mp3"
+Dec 27 12:44 : player: played "ReZero_S2_Ending_Memento_nonoc.mp3"
+Dec 27 12:47 : player: played "BlackClover-Black_Catcher.mp3"
+Dec 27 12:50 : player: played "BlackClover-Grandeur-OP13.mp3"
+Dec 27 20:58 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Dec 27 21:02 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Dec 27 21:29 : player: played "LLI-Snow_Halation.mp4"
+Dec 27 21:33 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 27 21:33 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 27 21:33 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+Dec 27 21:37 : player: played "ShigatsuWaKimiNoUso_NanairoSymphony_OP2.mp3"
+Dec 27 21:42 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 27 21:42 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 27 21:42 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Dec 27 21:47 : player: played "Nrgm_HeyKids_OP2.mp3"
+Dec 27 21:52 : player: played "ReZero_S2_Ending_Memento_nonoc.mp3"
+Dec 27 21:55 : player: played "BlackClover-Black_Catcher.mp3"
+Dec 27 21:58 : player: played "BlackClover-Grandeur-OP13.mp3"
+Dec 27 22:03 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Dec 28 11:32 : config: option 'device' on line 14 was not recognized
+Dec 29 11:59 : config: option 'device' on line 14 was not recognized
+Dec 29 22:57 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Dec 29 23:01 : player: played "KeON-GO_GO_MANIAC.mp3"
+Dec 29 23:02 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Dec 29 23:05 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Dec 29 23:08 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Dec 29 23:15 : player: played "KeON-Utauyo_Miracle.mp3"
+Dec 29 23:31 : player: played "LLI-Snow_Halation.mp4"
+Dec 29 23:31 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 23:31 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 23:34 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 29 23:34 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 29 23:38 : player: played "Nrgm_HeyKids_OP2.mp3"
+Dec 30 00:08 : player: played "ReZero_S2_Ending_Memento_nonoc.mp3"
+Dec 30 11:06 : config: option 'device' on line 14 was not recognized
+Dec 30 11:19 : player: played "ReZero_S2_Ending_Memento_nonoc.mp3"
+Dec 30 11:24 : player: played "ReZero_S2_Ending_Memento_nonoc.mp3"
+Dec 30 11:27 : player: played "BlackClover-Black_Catcher.mp3"
+Dec 30 11:30 : player: played "BlackClover-Grandeur-OP13.mp3"
+Dec 30 11:35 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Dec 30 20:33 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Dec 30 20:38 : player: played "KeON-GO_GO_MANIAC.mp3"
+Dec 30 20:41 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Dec 30 20:44 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Dec 30 20:48 : player: played "KeON-Utauyo_Miracle.mp3"
+Dec 30 20:52 : player: played "KeON-Watashi_no_Koi_wa_Hotchkiss.mp3"
+Dec 30 20:57 : player: played "LLI-Snow_Halation.mp4"
+Dec 30 20:57 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 30 20:57 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 30 21:01 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Dec 30 21:01 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Dec 30 21:01 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Dec 30 21:05 : player: played "Nrgm_HeyKids_OP2.mp3"
+Dec 30 21:10 : player: played "ReZero_S2_Ending_Memento_nonoc.mp3"
+Dec 30 21:10 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Dec 30 21:11 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Dec 30 21:14 : player: played "LLI-Snow_Halation.mp4"
+Dec 31 10:32 : config: option 'device' on line 14 was not recognized
+Jan 01 11:44 : config: option 'device' on line 14 was not recognized
+Jan 01 21:45 : config: option 'device' on line 14 was not recognized
+Jan 02 10:13 : config: option 'device' on line 14 was not recognized
+Jan 02 11:41 : player: played "LLI-Snow_Halation.mp4"
+Jan 02 11:53 : player: played "KeON-GO_GO_MANIAC.mp3"
+Jan 02 22:57 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Jan 02 22:58 : config: option 'device' on line 14 was not recognized
+Jan 03 00:11 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Jan 03 11:03 : config: option 'device' on line 14 was not recognized
+Jan 04 00:18 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Jan 04 08:44 : config: option 'device' on line 14 was not recognized
+Jan 04 19:17 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Jan 04 19:17 : config: option 'device' on line 14 was not recognized
+Jan 04 19:36 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Jan 04 20:24 : config: option 'device' on line 14 was not recognized
+Jan 05 00:25 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Jan 05 10:48 : config: option 'device' on line 14 was not recognized
+Jan 06 00:20 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Jan 06 11:53 : config: option 'device' on line 14 was not recognized
+Jan 07 11:07 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Jan 07 11:08 : config: option 'device' on line 14 was not recognized
+Jan 07 11:15 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Jan 07 12:03 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Jan 07 12:35 : config: option 'device' on line 14 was not recognized
+Jan 09 00:54 : player: played "KeON-Ichiban_Ippai.mp3"
+Jan 09 00:55 : config: option 'device' on line 14 was not recognized
+Jan 09 01:04 : player: played "KeON-Ichiban_Ippai.mp3"
+Jan 09 09:37 : config: option 'device' on line 14 was not recognized
+Jan 09 15:21 : player: played "KeON-Ichiban_Ippai.mp3"
+Jan 09 15:22 : config: option 'device' on line 14 was not recognized
+Jan 09 21:45 : player: played "KeON-Ichiban_Ippai.mp3"
+Jan 09 21:53 : config: option 'device' on line 14 was not recognized
+Jan 09 21:59 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Jan 09 22:03 : player: played "KeON-Utauyo_Miracle.mp3"
+Jan 09 22:07 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Jan 09 22:10 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Jan 09 22:15 : player: played "KeON-Ichiban_Ippai.mp3"
+Jan 09 22:20 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Jan 10 10:11 : player: played "KeON-GO_GO_MANIAC.mp3"
+Jan 10 18:47 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Jan 11 11:10 : config: option 'device' on line 14 was not recognized
+Jan 12 07:36 : config: option 'device' on line 14 was not recognized
+Jan 12 18:18 : config: option 'device' on line 14 was not recognized
+Jan 12 18:41 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 12 18:41 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 12 18:41 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 12 18:41 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 12 20:01 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Jan 12 20:05 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 12 20:05 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 12 20:05 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Jan 12 20:09 : player: played "Nrgm_HeyKids_OP2.mp3"
+Jan 12 20:18 : player: played "BlackClover-Black_Catcher.mp3"
+Jan 12 20:23 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Jan 12 20:26 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Jan 12 20:30 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Jan 12 20:32 : player: played "KeON-GO_GO_MANIAC.mp3"
+Jan 12 20:54 : player: played "LLI-Snow_Halation.mp4"
+Jan 12 20:58 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 12 20:58 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 12 20:58 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+Jan 12 21:02 : player: played "ShigatsuWaKimiNoUso_NanairoSymphony_OP2.mp3"
+Jan 12 21:08 : player: played "ShigatsuWaKimiNoUso_Orange_ED2.mp4"
+Jan 12 21:08 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 12 21:08 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 12 21:13 : player: played "Nrgm_HeyKids_OP2.mp3"
+Jan 12 22:11 : player: played "ReZero_S2_Ending_Memento_nonoc.mp3"
+Jan 12 22:12 : config: option 'device' on line 14 was not recognized
+Jan 13 00:58 : player: played "ReZero_S2_Ending_Memento_nonoc.mp3"
+Jan 13 07:17 : config: option 'device' on line 14 was not recognized
+Jan 13 23:58 : player: played "ReZero_S2_Ending_Memento_nonoc.mp3"
+Jan 14 12:53 : config: option 'device' on line 14 was not recognized
+Jan 14 13:04 : player: played "ReZero_S2_Ending_Memento_nonoc.mp3"
+Jan 14 13:04 : player: played "ReZero_S2_Ending_Memento_nonoc.mp3"
+Jan 15 10:33 : config: option 'device' on line 14 was not recognized
+Jan 15 20:54 : config: option 'device' on line 14 was not recognized
+Jan 16 11:06 : config: option 'device' on line 14 was not recognized
+Jan 17 08:04 : config: option 'device' on line 14 was not recognized
+Jan 18 11:57 : config: option 'device' on line 14 was not recognized
+Jan 19 11:49 : config: option 'device' on line 14 was not recognized
+Jan 19 18:06 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 19 18:06 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 19 18:10 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 19 18:10 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 19 18:10 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Jan 19 18:15 : player: played "Nrgm_HeyKids_OP2.mp3"
+Jan 19 18:20 : player: played "ReZero_S2_Ending_Memento_nonoc.mp3"
+Jan 19 18:21 : player: played "BlackClover-Black_Catcher.mp3"
+Jan 20 09:33 : config: option 'device' on line 14 was not recognized
+Jan 21 11:44 : config: option 'device' on line 14 was not recognized
+Jan 22 09:10 : config: option 'device' on line 14 was not recognized
+Jan 22 09:36 : config: option 'device' on line 14 was not recognized
+Jan 22 10:03 : player: played "BlackClover-Black_Catcher.mp3"
+Jan 22 10:03 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 22 10:03 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 22 10:03 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 22 10:03 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 22 10:07 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Jan 22 10:12 : player: played "KeON-GO_GO_MANIAC.mp3"
+Jan 22 10:15 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Jan 22 10:18 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Jan 22 10:23 : player: played "KeON-U&I.mp3"
+Jan 22 10:27 : player: played "KeON-Utauyo_Miracle.mp3"
+Jan 22 10:31 : player: played "KeON-Watashi_no_Koi_wa_Hotchkiss.mp3"
+Jan 22 10:31 : player: played "LLI-Snow_Halation.mp4"
+Jan 22 10:32 : player: played "LLI-Snow_Halation.mp4"
+Jan 22 10:36 : player: played "LLI-Snow_Halation.mp4"
+Jan 22 10:40 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 22 10:40 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 22 10:41 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+Jan 22 10:48 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 22 10:48 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 22 10:48 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Jan 22 10:53 : player: played "Nrgm_HeyKids_OP2.mp3"
+Jan 22 10:58 : player: played "ReZero_S2_Ending_Memento_nonoc.mp3"
+Jan 22 11:01 : player: played "BlackClover-Black_Catcher.mp3"
+Jan 22 11:04 : player: played "BlackClover-Grandeur-OP13.mp3"
+Jan 22 11:08 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Jan 23 11:46 : config: option 'device' on line 14 was not recognized
+Jan 23 20:48 : config: option 'device' on line 14 was not recognized
+Jan 24 10:16 : config: option 'device' on line 14 was not recognized
+Jan 25 09:40 : config: option 'device' on line 14 was not recognized
+Jan 26 11:46 : config: option 'device' on line 14 was not recognized
+Jan 27 08:22 : config: option 'device' on line 14 was not recognized
+Jan 28 16:03 : config: option 'device' on line 14 was not recognized
+Jan 29 11:43 : config: option 'device' on line 14 was not recognized
+Jan 29 13:28 : config: option 'device' on line 14 was not recognized
+Jan 29 13:48 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Jan 29 14:29 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Jan 29 14:30 : config: option 'device' on line 14 was not recognized
+Jan 29 15:56 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Jan 30 22:03 : config: option 'device' on line 14 was not recognized
+Jan 30 23:08 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Jan 31 10:54 : config: option 'device' on line 14 was not recognized
+Jan 31 10:55 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Jan 31 11:42 : config: option 'device' on line 14 was not recognized
+Jan 31 23:42 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Feb 01 15:05 : config: option 'device' on line 14 was not recognized
+Feb 01 23:30 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Feb 02 06:49 : config: option 'device' on line 14 was not recognized
+Feb 03 00:28 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Feb 03 11:52 : config: option 'device' on line 14 was not recognized
+Feb 03 22:02 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Feb 03 22:02 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:02 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:02 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:02 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:02 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:02 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:02 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:02 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:03 : player: played "LLI-Snow_Halation.mp4"
+Feb 03 22:03 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:03 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:03 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:03 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:03 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:03 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:03 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:03 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:12 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Feb 03 22:17 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:17 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:17 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:17 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Feb 03 22:17 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:17 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:18 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:18 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:18 : exception: Failed to open audio output
+Feb 03 22:18 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:18 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Feb 03 22:18 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:18 : output: Failed to play on "pulse audio" (pulse): suspended
+Feb 03 22:19 : exception: Failed to open audio output
+Feb 03 23:45 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Feb 04 10:35 : config: option 'device' on line 14 was not recognized
+Feb 04 10:36 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Feb 04 10:40 : player: played "KeON-Ichiban_Ippai.mp3"
+Feb 04 13:29 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Feb 04 13:32 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Feb 04 22:47 : player: played "KeON-U&I.mp3"
+Feb 05 08:49 : config: option 'device' on line 14 was not recognized
+Feb 05 09:06 : player: played "KeON-Utauyo_Miracle.mp3"
+Feb 05 09:11 : player: played "KeON-Watashi_no_Koi_wa_Hotchkiss.mp3"
+Feb 05 09:15 : player: played "LLI-Snow_Halation.mp4"
+Feb 05 09:19 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 05 09:19 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 05 09:19 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+Feb 05 09:24 : player: played "ShigatsuWaKimiNoUso_NanairoSymphony_OP2.mp3"
+Feb 05 09:29 : player: played "ShigatsuWaKimiNoUso_Orange_ED2.mp4"
+Feb 05 09:33 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 05 09:33 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 05 09:33 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Feb 05 09:37 : player: played "Nrgm_HeyKids_OP2.mp3"
+Feb 05 09:43 : player: played "ReZero_S2_Ending_Memento_nonoc.mp3"
+Feb 05 09:46 : player: played "BlackClover-Black_Catcher.mp3"
+Feb 05 09:49 : player: played "BlackClover-Grandeur-OP13.mp3"
+Feb 05 09:54 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Feb 06 12:12 : config: option 'device' on line 14 was not recognized
+Feb 08 14:24 : config: option 'device' on line 14 was not recognized
+Feb 08 16:15 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Feb 08 16:19 : player: played "KeON-GO_GO_MANIAC.mp3"
+Feb 08 16:21 : exception: Failed to open /home/haniv/Music/playlists: No such file or directory
+Feb 08 16:21 : exception: Failed to open /home/haniv/Music/playlists: No such file or directory
+Feb 08 16:21 : exception: Failed to open /home/haniv/Music/playlists: No such file or directory
+Feb 08 16:21 : exception: Failed to open /home/haniv/Music/playlists: No such file or directory
+Feb 08 16:21 : exception: Failed to open /home/haniv/Music/playlists: No such file or directory
+Feb 08 16:21 : exception: Failed to open /home/haniv/Music/playlists: No such file or directory
+Feb 08 16:21 : exception: Failed to open /home/haniv/Music/playlists: No such file or directory
+Feb 08 16:21 : exception: Failed to open /home/haniv/Music/playlists: No such file or directory
+Feb 08 16:21 : exception: Failed to open /home/haniv/Music/playlists: No such file or directory
+Feb 08 16:22 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Feb 08 16:26 : player: played "KeON-Ichiban_Ippai.mp3"
+Feb 08 16:29 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Feb 08 16:34 : player: played "KeON-U&I.mp3"
+Feb 08 23:53 : player: played "KeON-Utauyo_Miracle.mp3"
+Feb 09 11:16 : config: option 'device' on line 14 was not recognized
+Feb 09 22:39 : player: played "KeON-Utauyo_Miracle.mp3"
+Feb 10 12:23 : config: option 'device' on line 14 was not recognized
+Feb 10 22:30 : player: played "KeON-Utauyo_Miracle.mp3"
+Feb 11 13:08 : config: option 'device' on line 14 was not recognized
+Feb 11 22:30 : player: played "KeON-Utauyo_Miracle.mp3"
+Feb 12 11:43 : config: option 'device' on line 14 was not recognized
+Feb 12 11:44 : player: played "KeON-Utauyo_Miracle.mp3"
+Feb 12 11:48 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Feb 12 11:52 : player: played "KeON-GO_GO_MANIAC.mp3"
+Feb 12 11:53 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Feb 12 11:57 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Feb 12 12:01 : player: played "KeON-Ichiban_Ippai.mp3"
+Feb 12 12:04 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Feb 12 12:50 : player: played "KeON-U&I.mp3"
+Feb 12 12:54 : player: played "KeON-Utauyo_Miracle.mp3"
+Feb 12 12:59 : player: played "KeON-Watashi_no_Koi_wa_Hotchkiss.mp3"
+Feb 12 13:03 : player: played "LLI-Snow_Halation.mp4"
+Feb 12 13:07 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 12 13:07 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 12 13:07 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+Feb 12 13:11 : player: played "ShigatsuWaKimiNoUso_NanairoSymphony_OP2.mp3"
+Feb 12 13:51 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 12 13:51 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 12 13:51 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Feb 12 21:44 : player: played "Nrgm_HeyKids_OP2.mp3"
+Feb 13 13:52 : config: option 'device' on line 14 was not recognized
+Feb 13 13:52 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 13 13:52 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 13 22:11 : player: played "Nrgm_HeyKids_OP2.mp3"
+Feb 14 14:39 : config: option 'device' on line 14 was not recognized
+Feb 14 14:39 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 14 14:39 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 15 00:01 : player: played "Nrgm_HeyKids_OP2.mp3"
+Feb 15 13:38 : config: option 'device' on line 14 was not recognized
+Feb 15 13:38 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 15 13:38 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 15 21:59 : player: played "Nrgm_HeyKids_OP2.mp3"
+Feb 16 13:14 : config: option 'device' on line 14 was not recognized
+Feb 16 13:14 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 16 13:14 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 16 23:02 : player: played "Nrgm_HeyKids_OP2.mp3"
+Feb 17 11:47 : config: option 'device' on line 14 was not recognized
+Feb 17 11:47 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 17 11:47 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 17 22:51 : player: played "Nrgm_HeyKids_OP2.mp3"
+Feb 18 11:09 : config: option 'device' on line 14 was not recognized
+Feb 18 11:09 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 18 11:09 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 18 19:34 : player: played "Nrgm_HeyKids_OP2.mp3"
+Feb 18 19:36 : config: option 'device' on line 14 was not recognized
+Feb 18 19:36 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 18 19:36 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 18 22:22 : player: played "Nrgm_HeyKids_OP2.mp3"
+Feb 19 08:33 : config: option 'device' on line 14 was not recognized
+Feb 19 08:33 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 19 08:33 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 20 09:39 : config: option 'device' on line 14 was not recognized
+Feb 20 09:39 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 20 09:39 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 21 00:19 : player: played "Nrgm_HeyKids_OP2.mp3"
+Feb 21 09:52 : config: option 'device' on line 14 was not recognized
+Feb 21 09:52 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 21 09:52 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 21 21:55 : player: played "Nrgm_HeyKids_OP2.mp3"
+Feb 22 11:47 : config: option 'device' on line 14 was not recognized
+Feb 22 11:47 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 22 11:47 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 22 11:47 : player: played "Nrgm_HeyKids_OP2.mp3"
+Feb 22 11:47 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 22 11:47 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 22 11:51 : player: played "Nrgm_HeyKids_OP2.mp3"
+Feb 22 11:56 : player: played "ReZero_S2_Ending_Memento_nonoc.mp3"
+Feb 22 13:24 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 22 13:24 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 22 13:24 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 22 13:24 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 22 13:28 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Feb 22 13:33 : player: played "KeON-GO_GO_MANIAC.mp3"
+Feb 22 13:36 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Feb 22 13:40 : player: played "KeON-Ichiban_Ippai.mp3"
+Feb 22 13:43 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Feb 22 13:48 : player: played "KeON-U&I.mp3"
+Feb 22 13:52 : player: played "KeON-Utauyo_Miracle.mp3"
+Feb 22 13:56 : player: played "LLI-Snow_Halation.mp4"
+Feb 22 13:59 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 22 13:59 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 22 14:04 : player: played "ShigatsuWaKimiNoUso_NanairoSymphony_OP2.mp3"
+Feb 22 14:09 : player: played "ShigatsuWaKimiNoUso_Orange_ED2.mp4"
+Feb 23 01:08 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Feb 23 13:19 : config: option 'device' on line 14 was not recognized
+Feb 23 22:42 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Feb 24 10:02 : config: option 'device' on line 14 was not recognized
+Feb 25 00:09 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Feb 25 10:51 : config: option 'device' on line 14 was not recognized
+Feb 25 23:20 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Feb 26 10:33 : config: option 'device' on line 14 was not recognized
+Feb 26 23:30 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Feb 27 12:13 : config: option 'device' on line 14 was not recognized
+Feb 27 21:30 : config: option 'device' on line 14 was not recognized
+Feb 28 10:07 : config: option 'device' on line 14 was not recognized
+Feb 28 20:18 : config: option 'device' on line 14 was not recognized
+Mar 01 08:26 : config: option 'device' on line 14 was not recognized
+Mar 02 12:27 : config: option 'device' on line 14 was not recognized
+Mar 02 20:38 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Mar 02 20:38 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Mar 02 20:38 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Mar 02 20:43 : player: played "Nrgm_HeyKids_OP2.mp3"
+Mar 02 20:47 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Mar 02 20:51 : player: played "LLI-Snow_Halation.mp4"
+Mar 02 20:58 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Mar 03 10:28 : config: option 'device' on line 14 was not recognized
+Mar 04 08:20 : config: option 'device' on line 14 was not recognized
+Mar 05 08:45 : config: option 'device' on line 14 was not recognized
+Mar 09 14:00 : config: option 'device' on line 14 was not recognized
+Mar 09 15:08 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Mar 09 16:16 : player: played "KeON-Utauyo_Miracle.mp3"
+Mar 09 16:25 : player: played "LLI-Snow_Halation.mp4"
+Mar 09 16:29 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Mar 09 16:29 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Mar 09 16:29 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+Mar 09 16:34 : player: played "ShigatsuWaKimiNoUso_NanairoSymphony_OP2.mp3"
+Mar 09 16:37 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Mar 09 16:37 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Mar 09 16:41 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Mar 09 16:41 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Mar 09 16:41 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+Mar 09 16:46 : player: played "ShigatsuWaKimiNoUso_NanairoSymphony_OP2.mp3"
+Mar 09 16:50 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Mar 09 16:50 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Mar 09 16:50 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Mar 09 17:49 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Mar 09 17:49 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Mar 09 17:49 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Mar 09 17:49 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Mar 10 09:15 : config: option 'device' on line 14 was not recognized
+Mar 10 09:15 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Mar 10 09:15 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Mar 12 12:51 : config: option 'device' on line 14 was not recognized
+Mar 12 12:51 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Mar 12 12:51 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Mar 13 09:25 : config: option 'device' on line 14 was not recognized
+Mar 13 09:25 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Mar 13 09:25 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Mar 13 09:25 : player: played "Nrgm_HeyKids_OP2.mp3"
+Mar 13 10:23 : config: option 'device' on line 14 was not recognized
+Mar 13 10:23 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Mar 13 10:23 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Mar 13 13:08 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Mar 13 13:08 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Mar 13 13:12 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Mar 13 13:16 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 13 13:17 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Mar 13 13:18 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Mar 13 13:23 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Mar 13 13:27 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Mar 13 13:32 : player: played "KeON-U&I.mp3"
+Mar 13 13:37 : player: played "KeON-Utauyo_Miracle.mp3"
+Mar 14 18:51 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+Mar 14 18:52 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+Mar 14 18:52 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+Mar 14 18:56 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Mar 14 19:00 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 14 19:03 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Mar 14 19:06 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Mar 14 19:11 : player: played "KeON-U&I.mp3"
+Mar 14 19:15 : player: played "KeON-Utauyo_Miracle.mp3"
+Mar 14 19:31 : player: played "KeON-Watashi_no_Koi_wa_Hotchkiss.mp3"
+Mar 15 09:25 : player: played "LLI-Snow_Halation.mp4"
+Mar 15 09:26 : player: played "LLI-Snow_Halation.mp4"
+Mar 15 09:27 : player: played "LLI-Snow_Halation.mp4"
+Mar 15 09:29 : player: played "LLI-Snow_Halation.mp4"
+Mar 15 09:34 : player: played "LLI-Snow_Halation.mp4"
+Mar 15 09:38 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Mar 15 09:38 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Mar 15 09:38 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+Mar 15 09:42 : player: played "ShigatsuWaKimiNoUso_NanairoSymphony_OP2.mp3"
+Mar 15 11:42 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Mar 15 11:42 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Mar 15 11:42 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Mar 15 11:46 : player: played "LLI-Snow_Halation.mp4"
+Mar 15 11:50 : player: played "LLI-Snow_Halation.mp4"
+Mar 15 11:54 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Mar 15 11:54 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Mar 15 11:55 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+Mar 15 12:02 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Mar 15 14:50 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 15 14:53 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Mar 15 14:57 : player: played "KeON-Ichiban_Ippai.mp3"
+Mar 16 23:29 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Mar 17 07:25 : config: option 'device' on line 14 was not recognized
+Mar 17 07:34 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Mar 17 07:35 : config: option 'device' on line 14 was not recognized
+Mar 17 13:40 : player: played "KeON-Utauyo_Miracle.mp3"
+Mar 17 13:44 : player: played "LLI-Snow_Halation.mp4"
+Mar 17 13:49 : player: played "LLI-Snow_Halation.mp4"
+Mar 17 13:51 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Mar 17 13:51 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Mar 17 13:52 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Mar 17 13:52 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Mar 17 13:56 : player: played "Nrgm_HeyKids_OP2.mp3"
+Mar 17 13:59 : player: played "BlackClover-Black_Catcher.mp3"
+Mar 17 14:01 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Mar 17 14:05 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Mar 17 14:05 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Mar 17 14:05 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Mar 17 14:05 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Mar 17 14:09 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Mar 17 14:09 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 17 18:25 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 17 20:38 : config: option 'device' on line 14 was not recognized
+Mar 17 22:50 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 17 22:52 : config: option 'device' on line 14 was not recognized
+Mar 17 23:01 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 17 23:02 : config: option 'device' on line 14 was not recognized
+Mar 18 00:14 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 18 09:55 : config: option 'device' on line 14 was not recognized
+Mar 18 12:42 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 18 16:02 : config: option 'device' on line 14 was not recognized
+Mar 18 20:21 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Mar 18 20:21 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Mar 18 20:26 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 18 20:29 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Mar 18 21:54 : player: played "KeON-Watashi_no_Koi_wa_Hotchkiss.mp3"
+Mar 18 22:09 : player: played "LLI-Snow_Halation.mp4"
+Mar 18 22:11 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Mar 18 22:11 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Mar 18 22:20 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Mar 18 22:20 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Mar 18 22:20 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Mar 18 22:22 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Mar 19 00:09 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 19 07:51 : config: option 'device' on line 14 was not recognized
+Mar 20 01:34 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 20 10:54 : config: option 'device' on line 14 was not recognized
+Mar 20 20:33 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 21 12:44 : config: option 'device' on line 14 was not recognized
+Mar 22 00:47 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 22 10:09 : config: option 'device' on line 14 was not recognized
+Mar 22 22:51 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 23 10:07 : config: option 'device' on line 14 was not recognized
+Mar 24 00:21 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 24 19:42 : config: option 'device' on line 14 was not recognized
+Mar 24 22:04 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 25 14:23 : config: option 'device' on line 14 was not recognized
+Mar 25 23:11 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 26 13:18 : config: option 'device' on line 14 was not recognized
+Mar 26 16:06 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 27 21:29 : config: option 'device' on line 14 was not recognized
+Mar 27 22:53 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 28 11:06 : config: option 'device' on line 14 was not recognized
+Mar 28 22:17 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 29 10:07 : config: option 'device' on line 14 was not recognized
+Mar 29 10:55 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Mar 29 11:01 : player: played "KeON-GO_GO_MANIAC.mp3"
+Mar 29 11:04 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Mar 29 11:12 : player: played "KeON-U&I.mp3"
+Mar 29 11:16 : player: played "KeON-Utauyo_Miracle.mp3"
+Mar 29 11:16 : player: played "KeON-Watashi_no_Koi_wa_Hotchkiss.mp3"
+Mar 29 19:43 : config: option 'device' on line 14 was not recognized
+Mar 30 08:22 : config: option 'device' on line 14 was not recognized
+Mar 30 19:25 : config: option 'device' on line 14 was not recognized
+Mar 31 11:25 : config: option 'device' on line 14 was not recognized
+Apr 01 09:22 : config: option 'device' on line 14 was not recognized
+Apr 01 11:19 : player: played "KeON-Watashi_no_Koi_wa_Hotchkiss.mp3"
+Apr 01 11:20 : player: played "LLI-Snow_Halation.mp4"
+Apr 01 11:24 : player: played "LLI-Snow_Halation.mp4"
+Apr 01 11:28 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 01 11:28 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 01 11:32 : player: played "ShigatsuWaKimiNoUso_NanairoSymphony_OP2.mp3"
+Apr 01 11:36 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Apr 01 14:35 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Apr 01 14:35 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Apr 01 14:35 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Apr 01 14:36 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Apr 01 14:39 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 01 14:39 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 01 14:39 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Apr 01 14:40 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Apr 01 14:41 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Apr 01 16:18 : exception: Failed to open /home/haniv/Music/playlists: No such file or directory
+Apr 01 16:18 : exception: Failed to open /home/haniv/Music/playlists: No such file or directory
+Apr 01 16:18 : player: played "KeON-GO_GO_MANIAC.mp3"
+Apr 01 16:19 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 01 16:19 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 01 18:09 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 01 19:05 : config: option 'device' on line 14 was not recognized
+Apr 04 09:11 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 04 09:14 : config: option 'device' on line 14 was not recognized
+Apr 04 11:45 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 04 11:47 : config: option 'device' on line 14 was not recognized
+Apr 04 14:14 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Apr 04 16:22 : player: played "KeON-GO_GO_MANIAC.mp3"
+Apr 04 16:22 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 04 16:25 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 04 16:30 : player: played "KeON-Ichiban_Ippai.mp3"
+Apr 04 16:33 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Apr 04 16:37 : player: played "KeON-U&I.mp3"
+Apr 04 16:41 : player: played "KeON-Utauyo_Miracle.mp3"
+Apr 04 16:46 : player: played "KeON-Watashi_no_Koi_wa_Hotchkiss.mp3"
+Apr 04 16:50 : player: played "LLI-Snow_Halation.mp4"
+Apr 04 16:54 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 04 16:54 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 04 16:54 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+Apr 04 17:21 : player: played "ShigatsuWaKimiNoUso_NanairoSymphony_OP2.mp3"
+Apr 05 07:58 : config: option 'device' on line 14 was not recognized
+Apr 05 07:58 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 05 07:58 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 06 07:53 : config: option 'device' on line 14 was not recognized
+Apr 06 07:53 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 06 07:53 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 06 14:15 : player: played "ShigatsuWaKimiNoUso_NanairoSymphony_OP2.mp3"
+Apr 06 14:21 : config: option 'device' on line 14 was not recognized
+Apr 06 14:21 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 06 14:21 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 06 17:33 : player: played "ShigatsuWaKimiNoUso_NanairoSymphony_OP2.mp3"
+Apr 06 21:21 : config: option 'device' on line 14 was not recognized
+Apr 06 21:21 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 06 21:21 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 07:55 : player: played "ShigatsuWaKimiNoUso_NanairoSymphony_OP2.mp3"
+Apr 07 08:21 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 08:21 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 08:22 : player: played "ShigatsuWaKimiNoUso_NanairoSymphony_OP2.mp3"
+Apr 07 09:10 : config: option 'device' on line 14 was not recognized
+Apr 07 12:20 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 07 12:20 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 07 16:48 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 07 19:31 : config: option 'device' on line 14 was not recognized
+Apr 08 07:31 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 08 08:17 : config: option 'device' on line 14 was not recognized
+Apr 08 08:21 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 08 11:14 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 08 12:55 : player: played "KeON-Watashi_no_Koi_wa_Hotchkiss.mp3"
+Apr 08 12:58 : player: played "LLI-Snow_Halation.mp4"
+Apr 08 13:30 : player: played "LLI-Snow_Halation.mp4"
+Apr 08 14:41 : config: option 'device' on line 14 was not recognized
+Apr 09 11:36 : config: option 'device' on line 14 was not recognized
+Apr 10 09:20 : config: option 'device' on line 14 was not recognized
+Apr 11 08:01 : config: option 'device' on line 14 was not recognized
+Apr 12 08:52 : config: option 'device' on line 14 was not recognized
+Apr 13 07:54 : config: option 'device' on line 14 was not recognized
+Apr 13 10:50 : player: played "LLI-Snow_Halation.mp4"
+Apr 13 10:51 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 13 10:51 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 13 10:51 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Apr 13 10:52 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Apr 13 10:55 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 13 10:55 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 13 10:55 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 13 10:55 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 13 11:01 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Apr 13 11:06 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Apr 14 07:50 : config: option 'device' on line 14 was not recognized
+Apr 18 08:05 : config: option 'device' on line 14 was not recognized
+Apr 18 09:24 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Apr 18 09:24 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Apr 18 09:28 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Apr 18 09:29 : player: played "KeON-GO_GO_MANIAC.mp3"
+Apr 18 12:49 : player: played "KeON-GO_GO_MANIAC.mp3"
+Apr 18 12:50 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 18 16:46 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 19 07:53 : config: option 'device' on line 14 was not recognized
+Apr 19 15:48 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 19 15:51 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 19 15:55 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Apr 19 15:59 : player: played "KeON-U&I.mp3"
+Apr 19 16:03 : player: played "KeON-Utauyo_Miracle.mp3"
+Apr 19 16:33 : player: played "KeON-Watashi_no_Koi_wa_Hotchkiss.mp3"
+Apr 20 07:54 : config: option 'device' on line 14 was not recognized
+Apr 20 09:54 : player: played "LLI-Snow_Halation.mp4"
+Apr 20 09:58 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 20 09:58 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 20 09:58 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+Apr 20 10:03 : player: played "ShigatsuWaKimiNoUso_NanairoSymphony_OP2.mp3"
+Apr 20 10:08 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 20 10:08 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 20 10:08 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Apr 20 10:12 : player: played "Nrgm_HeyKids_OP2.mp3"
+Apr 20 10:17 : player: played "ReZero_S2_Ending_Memento_nonoc.mp3"
+Apr 20 10:18 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Apr 20 10:22 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Apr 20 10:26 : player: played "KeON-GO_GO_MANIAC.mp3"
+Apr 20 10:29 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 20 10:32 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Apr 20 10:34 : player: played "KeON-U&I.mp3"
+Apr 20 17:17 : config: option 'device' on line 14 was not recognized
+Apr 21 07:59 : config: option 'device' on line 14 was not recognized
+Apr 22 08:00 : config: option 'device' on line 14 was not recognized
+Apr 22 11:10 : player: played "KeON-U&I.mp3"
+Apr 22 11:14 : player: played "KeON-Utauyo_Miracle.mp3"
+Apr 22 11:18 : player: played "KeON-Watashi_no_Koi_wa_Hotchkiss.mp3"
+Apr 22 11:23 : player: played "LLI-Snow_Halation.mp4"
+Apr 22 11:27 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 22 11:27 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 22 11:27 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+Apr 22 11:31 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 22 11:31 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 22 11:31 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Apr 22 11:36 : player: played "Nrgm_HeyKids_OP2.mp3"
+Apr 22 11:39 : player: played "ReZero_S2_Ending_Memento_nonoc.mp3"
+Apr 22 12:34 : player: played "BlackClover-Black_Catcher.mp3"
+Apr 22 12:38 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Apr 22 17:25 : player: played "LLI-Snow_Halation.mp4"
+Apr 24 18:43 : config: option 'device' on line 14 was not recognized
+Apr 24 20:38 : player: played "LLI-Snow_Halation.mp4"
+Apr 24 21:34 : config: option 'device' on line 14 was not recognized
+Apr 24 21:44 : player: played "LLI-Snow_Halation.mp4"
+Apr 24 22:46 : config: option 'device' on line 14 was not recognized
+Apr 25 07:40 : config: option 'device' on line 14 was not recognized
+Apr 25 10:42 : player: played "LLI-Snow_Halation.mp4"
+Apr 25 10:46 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 25 10:46 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 25 10:46 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+Apr 25 10:51 : player: played "ShigatsuWaKimiNoUso_NanairoSymphony_OP2.mp3"
+Apr 25 10:55 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 25 10:55 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 25 10:55 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+Apr 25 10:59 : player: played "Nrgm_HeyKids_OP2.mp3"
+Apr 25 11:04 : player: played "ReZero_S2_Ending_Memento_nonoc.mp3"
+Apr 25 11:07 : player: played "BlackClover-Black_Catcher.mp3"
+Apr 25 11:11 : player: played "BlackClover-Grandeur-OP13.mp3"
+Apr 25 11:15 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+Apr 25 11:19 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+Apr 25 11:24 : player: played "KeON-GO_GO_MANIAC.mp3"
+Apr 25 11:24 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 25 11:28 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 25 11:32 : player: played "KeON-Ichiban_Ippai.mp3"
+Apr 25 11:35 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Apr 25 11:39 : player: played "KeON-U&I.mp3"
+Apr 25 11:43 : player: played "KeON-Utauyo_Miracle.mp3"
+Apr 25 11:48 : player: played "KeON-Watashi_no_Koi_wa_Hotchkiss.mp3"
+Apr 25 11:52 : player: played "LLI-Snow_Halation.mp4"
+Apr 25 11:53 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+Apr 25 14:42 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 25 14:42 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 25 14:42 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 25 14:42 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 25 14:42 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 25 14:42 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 25 14:46 : player: played "KeON-GO_GO_MANIAC.mp3"
+Apr 25 14:47 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 25 14:51 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 25 14:55 : player: played "KeON-Ichiban_Ippai.mp3"
+Apr 25 16:50 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Apr 25 20:18 : config: option 'device' on line 14 was not recognized
+Apr 26 07:58 : config: option 'device' on line 14 was not recognized
+Apr 26 08:06 : player: played "KeON-Ichiban_Ippai.mp3"
+Apr 26 14:15 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+Apr 26 14:19 : player: played "KeON-Ichiban_Ippai.mp3"
+Apr 26 14:22 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+Apr 26 14:27 : player: played "KeON-U&I.mp3"
+Apr 26 14:30 : player: played "KeON-Utauyo_Miracle.mp3"
+Apr 26 14:34 : player: played "KeON-Utauyo_Miracle.mp3"
+Apr 26 14:39 : player: played "KeON-Watashi_no_Koi_wa_Hotchkiss.mp3"
+Apr 26 16:10 : player: played "LLI-Snow_Halation.mp4"
+Apr 27 07:54 : config: option 'device' on line 14 was not recognized
+Apr 27 09:33 : player: played "LLI-Snow_Halation.mp4"
+Apr 27 09:33 : player: played "LLI-Snow_Halation.mp4"
+Apr 27 09:34 : player: played "LLI-Snow_Halation.mp4"
+Apr 27 09:39 : player: played "LLI-Snow_Halation.mp4"
+Apr 27 09:43 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Apr 27 09:43 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Apr 27 09:43 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+Apr 27 09:45 : player: played "ShigatsuWaKimiNoUso_NanairoSymphony_OP2.mp3"
+Apr 27 20:44 : config: option 'device' on line 14 was not recognized
+Apr 28 07:59 : config: option 'device' on line 14 was not recognized
+Apr 28 20:20 : config: option 'device' on line 14 was not recognized
+Apr 29 11:37 : config: option 'device' on line 14 was not recognized
+Apr 30 13:06 : config: option 'device' on line 14 was not recognized
+May 05 18:00 : config: option 'device' on line 14 was not recognized
+May 07 16:22 : config: option 'device' on line 14 was not recognized
+May 08 15:10 : config: option 'device' on line 14 was not recognized
+May 08 15:33 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 08 15:33 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 08 15:35 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+May 08 18:57 : config: option 'device' on line 14 was not recognized
+May 08 19:24 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 08 19:24 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 08 19:24 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+May 08 19:28 : player: played "Nrgm_HeyKids_OP2.mp3"
+May 08 19:33 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+May 08 23:06 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+May 09 07:56 : config: option 'device' on line 14 was not recognized
+May 09 10:35 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+May 09 13:18 : player: played "KeON-GO_GO_MANIAC.mp3"
+May 09 13:19 : config: option 'device' on line 14 was not recognized
+May 09 15:23 : player: played "KeON-GO_GO_MANIAC.mp3"
+May 09 15:23 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+May 09 17:07 : config: option 'device' on line 14 was not recognized
+May 09 18:50 : config: option 'device' on line 14 was not recognized
+May 10 07:54 : config: option 'device' on line 14 was not recognized
+May 10 09:09 : player: played "KeON-Gohan_Wa_Okazu.mp3"
+May 10 09:13 : player: played "KeON-Ichiban_Ippai.mp3"
+May 10 09:16 : player: played "KeON-Sakuragaoka_Joshi_Koutou_Gakkou_Kouka.mp3"
+May 10 09:16 : player: played "KeON-U&I.mp3"
+May 10 13:18 : player: played "KeON-U&I.mp3"
+May 10 22:56 : player: played "KeON-Utauyo_Miracle.mp3"
+May 11 07:52 : config: option 'device' on line 14 was not recognized
+May 11 14:54 : player: played "KeON-Utauyo_Miracle.mp3"
+May 11 14:59 : player: played "KeON-Watashi_no_Koi_wa_Hotchkiss.mp3"
+May 11 15:01 : player: played "LLI-Snow_Halation.mp4"
+May 11 15:06 : player: played "LLI-Snow_Halation.mp4"
+May 11 15:10 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 11 15:10 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 11 15:10 : player: played "ShigatsuWaKimiNoUso_HikaruNara_OP1.mp4"
+May 11 16:34 : config: option 'device' on line 14 was not recognized
+May 11 16:34 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 11 16:34 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 12 13:41 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+May 12 13:44 : config: option 'device' on line 14 was not recognized
+May 12 16:19 : config: option 'device' on line 14 was not recognized
+May 13 08:15 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+May 13 08:17 : config: option 'device' on line 14 was not recognized
+May 13 12:33 : config: option 'device' on line 14 was not recognized
+May 13 17:00 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+May 13 17:00 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+May 13 17:00 : player: played "UzakiChanWaAsobitai_NadameSukashi_OP1.mp3"
+May 13 17:18 : player: played "BlackClover-JUSTadICE-OP7.mp3"
+May 13 17:18 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+May 13 17:19 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+May 13 18:36 : config: option 'device' on line 14 was not recognized
+May 14 14:46 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+May 14 14:48 : config: option 'device' on line 14 was not recognized
+May 14 15:27 : config: option 'device' on line 14 was not recognized
+May 14 18:21 : player: played "KeON-Fuwa_Fuwa_Time.mp3"
+May 14 18:30 : config: option 'device' on line 14 was not recognized
+May 14 18:33 : player: played "KeON-Fuwa_Fuwa_Time.mp3"

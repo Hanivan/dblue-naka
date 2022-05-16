@@ -1,0 +1,30 @@
+#!/bin/bash
+
+start() {
+   sudo /opt/lampp/xampp start
+   docker create -t -i --name rmq -p 15672:15672 -p 5672:5672 rabbitmq:management-alpine
+   docker start rmq
+   sudo rsm start mongod
+   redis-server
+}
+
+stop() {
+   sudo /opt/lampp/xampp stop
+   docker stop rmq
+   sudo rsm stop mongod
+}
+
+default() {
+   echo -e "Sorry, what do you mean?"
+}
+
+args=$1
+
+shopt -s nocasematch
+case "$args" in
+   "up" ) start ;;
+   "down" ) stop ;;
+   *) default ;;
+esac
+
+

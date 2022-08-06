@@ -241,7 +241,7 @@ _G.packer_plugins = {
     url = "https://github.com/windwp/nvim-autopairs"
   },
   ["nvim-cmp"] = {
-    after = { "cmp_luasnip", "nvim-lsp-installer", "cmp-nvim-lsp", "nvim-lspconfig", "nvim-autopairs" },
+    after = { "nvim-autopairs", "nvim-lsp-installer", "cmp-nvim-lsp", "cmp_luasnip", "nvim-lspconfig" },
     config = { "require('utils.lsp.nvim-cmp')" },
     load_after = {
       ["lspkind-nvim"] = true
@@ -264,13 +264,13 @@ _G.packer_plugins = {
       ["nvim-cmp"] = true
     },
     loaded = false,
-    needs_bufread = false,
+    needs_bufread = true,
     only_cond = false,
     path = "/home/haniv/.local/share/nvim/site/pack/packer/opt/nvim-lsp-installer",
     url = "https://github.com/williamboman/nvim-lsp-installer"
   },
   ["nvim-lspconfig"] = {
-    after = { "nvim-treesitter", "nvim-treesitter-refactor", "null-ls.nvim" },
+    after = { "nvim-treesitter", "null-ls.nvim", "nvim-treesitter-refactor" },
     config = { "require('utils.lsp.language-servers')" },
     load_after = {
       ["nvim-cmp"] = true
@@ -312,7 +312,7 @@ _G.packer_plugins = {
     url = "https://github.com/nvim-treesitter/nvim-treesitter-refactor"
   },
   ["nvim-web-devicons"] = {
-    after = { "bufferline.nvim", "nvim-tree.lua" },
+    after = { "nvim-tree.lua", "bufferline.nvim" },
     loaded = false,
     needs_bufread = false,
     only_cond = false,
@@ -423,9 +423,9 @@ vim.cmd [[au FileType markdown ++once lua require("packer.load")({'markdown-prev
 time([[Defining lazy-load filetype autocommands]], false)
   -- Event lazy-loads
 time([[Defining lazy-load event autocommands]], true)
-vim.cmd [[au BufWinEnter * ++once lua require("packer.load")({'gitsigns.nvim', 'filetype.nvim', 'bufferline.nvim', 'dashboard-nvim', 'nvim-lsp-installer', 'vim-surround', 'telescope.nvim', 'nvim-lspconfig', 'lualine.nvim', 'lua-language-server', 'nvim-autopairs', 'plenary.nvim', 'nvim-colorizer.lua', 'nvim-web-devicons'}, { event = "BufWinEnter *" }, _G.packer_plugins)]]
-vim.cmd [[au BufRead * ++once lua require("packer.load")({'nvim-treesitter', 'go.nvim', 'tagalong.vim', 'friendly-snippets', 'Comment.nvim', 'which-key.nvim', 'ejs-syntax', 'vim-php-cs-fixer', 'indent-blankline.nvim', 'vim-jsx', 'vim-jst'}, { event = "BufRead *" }, _G.packer_plugins)]]
 vim.cmd [[au InsertEnter * ++once lua require("packer.load")({'nvim-cmp', 'lspkind-nvim', 'copilot.vim'}, { event = "InsertEnter *" }, _G.packer_plugins)]]
+vim.cmd [[au BufRead * ++once lua require("packer.load")({'indent-blankline.nvim', 'tagalong.vim', 'nvim-treesitter', 'go.nvim', 'ejs-syntax', 'which-key.nvim', 'Comment.nvim', 'vim-php-cs-fixer', 'friendly-snippets', 'vim-jsx', 'vim-jst'}, { event = "BufRead *" }, _G.packer_plugins)]]
+vim.cmd [[au BufWinEnter * ++once lua require("packer.load")({'plenary.nvim', 'nvim-web-devicons', 'gitsigns.nvim', 'bufferline.nvim', 'nvim-autopairs', 'nvim-lsp-installer', 'filetype.nvim', 'dashboard-nvim', 'nvim-colorizer.lua', 'lualine.nvim', 'vim-surround', 'telescope.nvim', 'nvim-lspconfig', 'lua-language-server'}, { event = "BufWinEnter *" }, _G.packer_plugins)]]
 time([[Defining lazy-load event autocommands]], false)
 vim.cmd("augroup END")
 if should_profile then save_profiles(1) end
